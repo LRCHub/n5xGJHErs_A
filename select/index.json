@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "居眠り遠征隊",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2026-03-30T14:21:19.326668Z",
+  "createdAt": "2026-04-01T00:52:24.759551Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,7 +59,7 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
       "path": "select/localdb_01_居眠り遠征隊_ずっと真夜中でいいのに。.lrc",
-      "repo_name": "E0N8LzuM6qI"
+      "repo_name": "n5xGJHErs_A"
     },
     {
       "id": "localdb_2",
@@ -68,7 +68,7 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
       "path": "select/localdb_02_居眠り遠征隊_ずっと真夜中でいいのに。.lrc",
-      "repo_name": "n5xGJHErs_A"
+      "repo_name": "E0N8LzuM6qI"
     }
   ]
 }
